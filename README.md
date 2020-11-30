@@ -1,0 +1,2 @@
+# AntiSpamTrigger
+FiveM AntiSpamTrigger | RateLimit
